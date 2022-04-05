@@ -35,7 +35,7 @@ namespace FigureAreaLibrary
 
         protected override bool checkData()
         {
-            if (a + b < c) return false;
+            if (a + b <= c) return false;
             else if (a < 0 || b < 0 || c < 0) return false;
             else return true;
         }
