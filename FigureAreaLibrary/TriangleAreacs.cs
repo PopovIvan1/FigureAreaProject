@@ -1,6 +1,0 @@
-﻿namespace FigureAreaLibrary
-{
-    class TriangleAreacs
-    {
-    }
-}
